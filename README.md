@@ -2,6 +2,8 @@
 
 ### Explore the Core Operations of Convolutional Neural Networks!
 
+**Try the App Now**: [https://cnnblocks.streamlit.app](https://cnnblocks.streamlit.app)
+
 Welcome to the **CNN Building Blocks Explorer**! This application provides an interactive way to understand the fundamental building blocks of Convolutional Neural Networks (CNNs) using PyTorch.  
 Upload your images and apply operations to gain an intuitive understanding of CNNs. Whether you're just starting with deep learning or want a tool to visualize CNN layers, this app is here for you.
 
